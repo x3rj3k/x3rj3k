@@ -17,8 +17,7 @@
   - ⚡ Fun fact **I am funny**
   
   </details>
-</div>
-
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x3rj3k&&theme=tokyonight" alt="x3rj3k" /></p>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
@@ -27,6 +26,8 @@
   <a href="https://github.com/x3rj3k" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=github&logoColor=black" alt="x3rj3k" /></a>
   <a href="mailto:jekxer.silao@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="x3rj3k" /></a>
 </p>
+
+</div>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 <p align="center"> 
