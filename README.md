@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jekxer Silao</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x3rj3k&label=Profile%20views&color=0e75b6&style=flat" alt="x3rj3k" /> </p>
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <div style="display:flex">
-  <img align="right" alt="coding" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
-  
   <details>
     <summary><img src="https://media.tenor.com/_yeL_VoTuGsAAAAi/sakuya-touhou.gif" width="40"> More about me 🔽</summary>
     
@@ -25,7 +23,9 @@
   <a href="https://linkedin.com/in/x3rj3k" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="x3rj3k" /></a>
   <a href="https://github.com/x3rj3k" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=github&logoColor=black" alt="x3rj3k" /></a>
   <a href="mailto:jekxer.silao@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="x3rj3k" /></a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=x3rj3k&label=Profile%20views&color=0e75b6&style=flat" alt="x3rj3k" /> </p>
 </p>
+
 
 </div>
 
