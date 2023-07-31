@@ -6,7 +6,7 @@
 
 <div style="display:flex">
   <img align="right" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
-  </p>
+  
   <details>
     <summary><img src="https://media.tenor.com/_yeL_VoTuGsAAAAi/sakuya-touhou.gif" width="40"> More about me 🔽</summary>
     
