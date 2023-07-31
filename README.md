@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x3rj3k&label=Profile%20views&color=0e75b6&style=flat" alt="x3rj3k" /> </p>
 
 <div style="display:flex">
-  <img align="right" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+  <img align="right" alt="coding" width="200" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
   
   <details>
     <summary><img src="https://media.tenor.com/_yeL_VoTuGsAAAAi/sakuya-touhou.gif" width="40"> More about me 🔽</summary>
